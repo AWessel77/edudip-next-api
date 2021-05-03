@@ -259,7 +259,7 @@ Rückgabe im Fehlerfall:
         ]
     }
 
-Das Feld ```auth_key``` enthält den persönlichen Authorisierungs-Schlüssel, mit dem sich ein Teilnehmer im Raum identifizieren kann. Dieser Schlüssel ist bereits in den Webinar-Raum-Link in der Property ```room_link``` eingesetzt. Der Teilnehmer gelingt über die Property ```room_link``` direkt in den Webinar Raum zu dem entsprechenden Termin. Jeder Webinar-Termin besitzt einen eigenen Link. Der Link ist personalisiert und nur für diesen Teilnehmer gedacht.
+Das Feld ```auth_key``` enthält den persönlichen Authorisierungs-Schlüssel, mit dem sich ein Teilnehmer im Raum identifizieren kann. Dieser Schlüssel ist bereits in den Webinar-Raum-Link in der Property ```room_link``` eingesetzt. Der Teilnehmer gelangt über die Property ```room_link``` direkt in den Webinar Raum zu dem entsprechenden Termin. Jeder Webinar-Termin besitzt einen eigenen Link. Der Link ist personalisiert und nur für diesen Teilnehmer gedacht.
 
 **Fehlercodes:**
 
